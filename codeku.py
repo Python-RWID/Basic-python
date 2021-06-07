@@ -1,1 +1,1 @@
-print("ini kodeku")
+print('Hello world')
