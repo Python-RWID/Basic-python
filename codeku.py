@@ -10,3 +10,4 @@ try:
 
 except Exception as e:
     print('ada error, e')
+print ('Hello world')
